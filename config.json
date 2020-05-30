@@ -3,7 +3,7 @@
         "min_input_size":       416,
         "max_input_size":       416,
         "anchors":              [5,10, 12,23, 27,40, 51,69, 85,121, 136,208],
-        "labels":               [ "bike", "bus", "car", "motor", "person", "rider", "traffic light", "traffic sign", "train", "truck" ]
+        "labels":               [ "car","person","traffic light", "traffic sign"]
     },
 
     "train": {
